@@ -1,15 +1,14 @@
 # Nostradamus
-This project was made for study purpose, it was made using ionic 2.
+This project was made for study purpose, it was made using AngularJS v1.
 
 ### How does it works?
 It generates a random "Mega-Sena" (Brazilian Lottery) number to the user.
 
 ### How to make it run on my PC?
-You must clone the directory, go to the root folder through your terminal or cmd, and use the command `npm install` to install the dependencies, then use `ionic lab` to run it on you PC.
+Just open the `index.html` file on your browser.
 
 ### Google Play download link
-Here's the link of the published Android version app.
-[nostradamus][nostradamus]
+Here's the link of the published Android version app: [nostradamus][nostradamus]
 
 
 
